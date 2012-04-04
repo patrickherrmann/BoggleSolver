@@ -1,0 +1,1 @@
+Boggle/Scramble solver. Written sometime in 2010. Run the Main class and enter the board dimensions. It will generate a random board of that size and then solve it (find all possible words and the maximum points possible).
